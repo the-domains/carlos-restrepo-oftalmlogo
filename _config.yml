@@ -6,9 +6,9 @@ color:
   saturation: 0.3097382590640336
   rhythmicContrast: 0.6821468453854322
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#007AAE'
+    - '#01C8CF'
+    - '#4F4F4F'
+    - '#01A7AF'
 name: Carlos Restrepo Oftalmólogo
